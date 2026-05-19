@@ -1,0 +1,11 @@
+pandas
+pyarrow
+numpy
+matplotlib
+seaborn
+plotly
+tqdm
+scikit-learn
+requests
+joblib
+jupyter
